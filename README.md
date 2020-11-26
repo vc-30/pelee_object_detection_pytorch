@@ -27,8 +27,8 @@ python detect.py
 ```
 #### Output
 <p align="left">
-<img src="./output/2007_002234_out.png" height="270" width="280" hspace="10"/><img src="./output/2007_003205_out.png" height="270" width="280" hspace="10"/> <img src="./output/2007_008575_out.png" height="270" width="280" hspace="10"/><br/><br/>
-<img src="./output/2007_002024_out.png" height="270" width="280" hspace="10"/><img src="./output/2008_001479_out.png" height="270" width="280" hspace="10"/> <img src="./output/2008_001194_out.png" height="270" width="280" hspace="10"/> <p />
+<img src="./output/2007_002234_out.png" height="260" width="270" hspace="10"/><img src="./output/2007_003205_out.png" height="260" width="270" hspace="10"/> <img src="./output/2007_008575_out.png" height="260" width="270" hspace="10"/><br/><br/>
+<img src="./output/2007_002024_out.png" height="260" width="270" hspace="10"/><img src="./output/2008_001479_out.png" height="260" width="270" hspace="10"/> <img src="./output/2008_001194_out.png" height="260" width="270" hspace="10"/> <p />
 
 
 
